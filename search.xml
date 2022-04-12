@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>Picgo+Github+Typora 纵享丝滑！</title>
+      <link href="blog/0412/"/>
+      <url>blog/0412/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Github-搭建图床"><a href="#Github-搭建图床" class="headerlink" title="Github 搭建图床"></a>Github 搭建图床</h1><h2 id="创建开放仓库-存放图片"><a href="#创建开放仓库-存放图片" class="headerlink" title="创建开放仓库 - 存放图片"></a>创建开放仓库 - 存放图片</h2><p><img src="https://cdn.jsdelivr.net/gh/like977/image-hosting//imag/202204122328029.png" alt="仓库名字自定义，必须public"></p><p>创建Github Token 具有repo权限</p><p>注意：</p><p>​    路径：Settings / Developer settings / Personal access tokens</p><p>​    Expiration ： 选择 No expiration //无限期</p><p>​    Generate token 后 注意保存 token，只出现一次</p><p><img src="https://cdn.jsdelivr.net/gh/like977/image-hosting//imag/202204122333225.png" alt="image-20220412233330163"></p><h1 id="配置-Picgo"><a href="#配置-Picgo" class="headerlink" title="配置 Picgo"></a>配置 Picgo</h1><h1 id="配置-Typora"><a href="#配置-Typora" class="headerlink" title="配置 Typora"></a>配置 Typora</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> Typora </category>
+          
+          <category> Picgo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Typora - 进阶</title>
       <link href="blog/0412typora/"/>
       <url>blog/0412typora/</url>
