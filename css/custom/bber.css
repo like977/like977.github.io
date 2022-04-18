@@ -77,7 +77,7 @@
 /* 标题 */
 .bb-info{
   display: inline;
-  float: right;
+  float: center; /* left*/
   line-height: 3.7rem;
   color: var(--heo-secondtext);
 }
