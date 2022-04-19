@@ -90,9 +90,3 @@ function forbidden_control() {
         }), console.log(e)
     }()
 }
-
-
-作者: Ethan.Tzy
-链接: https://tzy1997.com/articles/hexo541u/#%E7%A6%81%E6%AD%A2%E5%8F%B3%E9%94%AE%E5%8F%8AF12%E7%AD%89%E4%BA%8B%E4%BB%B6
-来源: 唐先森の博客
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

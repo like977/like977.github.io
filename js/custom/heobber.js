@@ -56,8 +56,6 @@ function getbbdata(){
         var dtime = array[i].date,data = d.getFullYear()+'/'+(d.getMonth()+1)+'/'+d.getDate() +' '+d.getHours()+':'+d.getMinutes()+':'+d.getSeconds();
         var dataCont = '<p class="datacont">'+urlToLink(array[i].content)+'</p>';
         var dataTime = '<p class="datatime">'+data+'</p>';
-  
-  
         result += `<li class="item"><div>`+ dataTime  + dataCont +`</p><p class="datafrom"><small>`+ from_icon + array[i].from +`</small></p></div></li>`;
       }
     } else {
