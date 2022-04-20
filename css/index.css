@@ -1490,7 +1490,7 @@ button {
   touch-action: manipulation;
 }
 a {
-  color: #99a9bf;
+  color: var(--font-color);
   text-decoration: none;
   word-wrap: break-word;
   -webkit-transition: all 0.2s;
@@ -3949,8 +3949,8 @@ h1.page-title + .tag-cloud-list {
 #article-container.post-content h6:before {
   position: absolute;
   top: calc(50% - 7px);
-  color: #f47466;
-  content: '\f0c1';
+  color: #e21b37;
+  content: '\f201';
   line-height: 1;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
