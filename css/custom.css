@@ -113,6 +113,24 @@ body,
 #recent-posts > .recent-post-item{
   background:rgba(255, 255, 255, 0.5);
 }
+
+#bbTimeList
+
+
+/*首页哔哔以及哔哔页面透明*/
+/*
+首页哔哔：\themes\butterfly\source\css\custom\home_bber.css   》 #bbTimeList{
+哔哔页面：\themes\butterfly\source\css\custom\bber.css   》 每条动态
+
+*/
+
+/* 侧边菜单*/
+.sidebar-menus{
+background:rgb(255, 255, 255, 0.5)!important;
+}
+  
+
+
 /* 首页侧栏卡片 */
 .card-widget{
 background:rgb(255, 255, 255, 0.5)!important;
