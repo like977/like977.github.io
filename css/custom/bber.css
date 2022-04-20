@@ -87,7 +87,7 @@
   display: flex;
   flex-direction: initial;
   flex-wrap: wrap;
-  background: var(--heo-post-blockquote-bg);
+  background: rgb(255, 255, 255, 0.5)!important; /* var(--heo-post-blockquote-bg); */
   box-shadow: var(--heo-shadow-lightblack);
   border-radius: 12px;
   padding: 8px 16px;
