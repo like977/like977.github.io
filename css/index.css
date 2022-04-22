@@ -1811,6 +1811,7 @@ figure.highlight pre .javascript .function {
   -webkit-box-shadow: 0 5px 10px 0 rgba(0,0,0,0.4);
   box-shadow: 0 5px 10px 0 rgba(0,0,0,0.4);
   -webkit-transform: translateZ(0);
+  border-radius: 12px;
 }
 #article-container figure.highlight .highlight-tools:after {
   position: absolute;
