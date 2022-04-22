@@ -55,7 +55,7 @@
 }
 #footer-wrap,
 #footer-wrap a {
-  color: #111;
+  color: rgba(84,232,115,0.878);
   -webkit-transition: unset;
   -moz-transition: unset;
   -o-transition: unset;

@@ -17,22 +17,22 @@ img[src*="#img-radius"] {
 }
 /* 侧边栏圆角 */
 #aside-content .card-widget {
-border-radius: 25px;
+border-radius: 12px;
 }
 /* 文章页圆角 */
 .layout>div:first-child:not(.recent-posts) {
-border-radius: 25px;
+border-radius: 12px;
 }
 /* 双栏卡片圆角 */
 #recent-posts>.recent-post-item {
-border-radius: 25px;
+border-radius: 12px;
 }
 /* github按钮圆角 */
 #card-info-btn{
-border-radius: 25px;
+border-radius: 12px;
 overflow: hidden}
 #card-info-btn:before{
-border-radius: 25px
+border-radius: 12px
 }
 /* 右侧小按钮圆角 */
 #rightside>div>button,#to_comment {
@@ -79,19 +79,19 @@ body,
 /* 页脚黑色透明玻璃效果减弱 */
 
 #footer::before{
-   background: rgba(255, 255, 255, 0.2);
+   background: rgba(0, 0, 0, 1);
   }
 
-/* 页脚黑色透明玻璃效果移除 
-#footer::before{
+/* 页脚黑色透明玻璃效果移除 */
+footer::before{
     background: transparent!important;
-  }*/
+  }
 
 
-/* 头图透明 */
+/* 头图透明 
 #page-header{
   background: transparent!important;
-}
+}*/
 
 /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
 
@@ -111,7 +111,7 @@ body,
 /*  ------------------- 全局透明 ------------------ */
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item{
-  background:rgba(255, 255, 255, 0.5);
+  background:rgba(0, 0, 0, 0.7);
 }
 
 #bbTimeList
@@ -126,43 +126,42 @@ body,
 
 /* 侧边菜单*/
 .sidebar-menus{
-background:rgb(255, 255, 255, 0.5)!important;
+background:rgba(253, 253, 253, 1)!important;
 }
   
 
 
 /* 首页侧栏卡片 */
 .card-widget{
-background:rgb(255, 255, 255, 0.5)!important;
+background:rgba(0, 0, 0, 0.7)!important;
 }
 
 /* 首页侧栏卡片 */
 div#git_container{
-  background:rgba(255, 255, 255, 0.5)!important;
+  background:rgba(0, 0, 0, 0.7)!important;
   }
 
   
 /* 文章页面正文背景 */
 div#post{
-background: rgba(255, 255, 255, 0.5);
+background: rgba(0, 0, 0, 0.7);
 }
 /* 分页页面 */
 div#page{
-background: rgba(255, 255, 255, 0.5);
+background: rgba(0, 0, 0, 0.7);
 }
 /* 归档页面 */
 div#archive{
-background: rgba(255, 255, 255, 0.5);
+background: rgba(0, 0, 0, 0.7);
 }
 /* 标签页面 */
 div#tag{
-background: rgba(255, 255, 255, 0.5);
+background: rgba(0, 0, 0, 0.7);
 }
 /* 分类页面 */
 div#category{
-background: rgba(255, 255, 255, 0.5);
+background: rgba(0, 0, 0, 0.7);
 }
-
 
 
 

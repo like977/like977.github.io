@@ -30,7 +30,7 @@
     --heo-hovertext: #5374ff;
     --heo-ahoverbg: #F7F7FA;
     --heo-lighttext: #ef794f;
-    --heo-secondtext: rgba(60, 60, 67, 0.6);
+    --heo-secondtext: rgb(255, 255, 255);
     --heo-scrollbar: rgba(60, 60, 67, 0.4);
     --heo-card-btn-bg: #f1f2f2;
     --heo-post-blockquote-bg: #fafcff;
@@ -87,7 +87,7 @@
   display: flex;
   flex-direction: initial;
   flex-wrap: wrap;
-  background: rgb(255, 255, 255, 0.5)!important; /* var(--heo-post-blockquote-bg); */
+  background: rgba(255, 255, 255, 0)!important; /* var(--heo-post-blockquote-bg); */
   box-shadow: var(--heo-shadow-lightblack);
   border-radius: 12px;
   padding: 8px 16px;
