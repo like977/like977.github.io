@@ -38,10 +38,10 @@
   }
   /* 评论块气泡化修改 */
   .tk-content {
-    background: #00a6ff; /*默认模式访客气泡配色*/
+    background: #13304078; /* #00a6ff; /*默认模式访客气泡配色*/
     padding: 10px;
     left: 8px;
-    color: white; /*默认模式访客气泡字体配色*/
+    color:  #0bdcc8; /*white; /*默认模式访客气泡字体配色*/
     border-radius: 10px;
     font-size: 16px !important;
     width: fit-content;
@@ -60,7 +60,7 @@
     word-wrap: break-word;
   }
   .tk-content a {
-    color: #eeecaa; /*默认模式超链接配色*/
+    color: #fff949; /*默认模式超链接配色*/
   }
   .tk-content::before {
     content: '';
@@ -71,12 +71,12 @@
     left: -13px;
     border-top: 2px solid transparent;
     border-bottom: 20px solid transparent;
-    border-right: 15px solid #00a6ff; /*默认模式访客气泡小三角配色*/
+    border-right: 15px solid #13304078;/*#00a6ff; /*默认模式访客气泡小三角配色*/
     border-left: 0 solid transparent;
   }
   .tk-master .tk-content {
-    background: #ff8080; /*默认模式博主气泡配色*/
-    color: white; /*默认模式博主气泡字体配色*/
+    background: #0e440040; /*#ff8080; /*默认模式博主气泡配色*/
+    color:  #ffcf48fa;/*默认模式博主气泡字体配色white*/
     width: fit-content;
     max-width: 100%;
     left: 9px;
@@ -93,7 +93,7 @@
     left: -13px;
     border-top: 2px solid transparent;
     border-bottom: 20px solid transparent;
-    border-right: 15px solid #ff8080; /*默认模式博主气泡小三角配色*/
+    border-right: 15px solid #0e440040; /*#ff8080; /*默认模式博主气泡小三角配色*/
     border-left: 0 solid transparent;
   }
   .tk-row[data-v-d82ce9a0] {
@@ -147,7 +147,7 @@
     }
     .tk-master .tk-content::before {
       left: 100%;
-      border-left: 15px solid #ff8080;
+      border-left: 15px solid #0e440040; /*#ff8080; 博主气泡小三角*/
       border-right: 0 solid transparent;
     }
     .tk-master .tk-avatar {
