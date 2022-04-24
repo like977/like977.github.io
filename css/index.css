@@ -4632,7 +4632,6 @@ h1.page-title + .tag-cloud-list {
   background-color: rgba(239,241,243,0);
 }
 #post .post-copyright:before {
-  background: var(--heo-post-blockquote-bg);
   position: absolute;
   right: -26px;
   top: -120px;
