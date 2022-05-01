@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>思の崖</title>
+  <icon>https://like977.vercel.app/icon.png</icon>
+  <subtitle>尚·念</subtitle>
+  <link href="https://like977.vercel.app/atom.xml" rel="self"/>
+  
+  <link href="https://like977.vercel.app/"/>
+  <updated>2022-05-01T17:02:08.284Z</updated>
+  <id>https://like977.vercel.app/</id>
+  
+  <author>
+    <name>Liam</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://like977.vercel.app/blog/Untitled/"/>
+    <id>https://like977.vercel.app/blog/Untitled/</id>
+    <published>2022-05-01T17:02:08.284Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>初级会计（一）- 实务基础</title>
+    <link href="https://like977.vercel.app/blog/%E5%88%9D%E7%BA%A7%E4%BC%9A%E8%AE%A1%EF%BC%88%E4%B8%80%EF%BC%89-%20%E5%AE%9E%E5%8A%A1%E5%9F%BA%E7%A1%80/"/>
+    <id>https://like977.vercel.app/blog/%E5%88%9D%E7%BA%A7%E4%BC%9A%E8%AE%A1%EF%BC%88%E4%B8%80%EF%BC%89-%20%E5%AE%9E%E5%8A%A1%E5%9F%BA%E7%A1%80/</id>
+    <published>2022-04-28T13:35:15.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;第一章-概述&quot;&gt;&lt;a href=&quot;#第一章-概述&quot; class=&quot;headerlink&quot; title=&quot;第一章 概述&quot;&gt;&lt;/a&gt;&lt;center&gt;第一章 概述&lt;/h1&gt;&lt;h2 id=&quot;第一节-会计概念、职能和目标&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Study" scheme="https://like977.vercel.app/categories/Study/"/>
+    
+    
+    <category term="初会" scheme="https://like977.vercel.app/tags/%E5%88%9D%E4%BC%9A/"/>
+    
+    <category term="笔记" scheme="https://like977.vercel.app/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSS学习记录</title>
+    <link href="https://like977.vercel.app/blog/CSS%E7%AC%94%E8%AE%B0/"/>
+    <id>https://like977.vercel.app/blog/CSS%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-04-26T23:48:59.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">这里有东西被加密了，需要输入密码查看哦。</summary>
+    
+    
+    
+    <category term="Python" scheme="https://like977.vercel.app/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://like977.vercel.app/tags/Python/"/>
+    
+    <category term="云函数" scheme="https://like977.vercel.app/tags/%E4%BA%91%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>腾讯云函数（一）- 实现自动更新微信运动步数！</title>
+    <link href="https://like977.vercel.app/blog/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%87%BD%E6%95%B0%EF%BC%88%E4%B8%80%EF%BC%89-%20%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E5%BE%AE%E4%BF%A1%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0%EF%BC%81/"/>
+    <id>https://like977.vercel.app/blog/%E8%85%BE%E8%AE%AF%E4%BA%91%E5%87%BD%E6%95%B0%EF%BC%88%E4%B8%80%EF%BC%89-%20%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E5%BE%AE%E4%BF%A1%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0%EF%BC%81/</id>
+    <published>2022-04-26T23:48:59.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">全自动定时更新三方平台运动步数！</summary>
+    
+    
+    
+    <category term="Python" scheme="https://like977.vercel.app/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://like977.vercel.app/tags/Python/"/>
+    
+    <category term="云函数" scheme="https://like977.vercel.app/tags/%E4%BA%91%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 一键自动部署到GitHub</title>
+    <link href="https://like977.vercel.app/blog/Git%20%E4%B8%80%E9%94%AE%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E5%88%B0GitHub/"/>
+    <id>https://like977.vercel.app/blog/Git%20%E4%B8%80%E9%94%AE%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2%E5%88%B0GitHub/</id>
+    <published>2022-04-25T22:27:43.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">利用脚本bat 实现一键Git一键部署到远程GitHub</summary>
+    
+    
+    
+    
+    <category term="Git" scheme="https://like977.vercel.app/tags/Git/"/>
+    
+    <category term="bat" scheme="https://like977.vercel.app/tags/bat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 一键部署</title>
+    <link href="https://like977.vercel.app/blog/Hexo%20%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2/"/>
+    <id>https://like977.vercel.app/blog/Hexo%20%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2/</id>
+    <published>2022-04-24T11:37:46.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">利用bat命令，快速实现git hexo指令，实现高效部署hexo静态博客</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://like977.vercel.app/categories/Hexo/"/>
+    
+    
+    <category term="bat" scheme="https://like977.vercel.app/tags/bat/"/>
+    
+    <category term="Hexo" scheme="https://like977.vercel.app/tags/Hexo/"/>
+    
+    <category term="cmd" scheme="https://like977.vercel.app/tags/cmd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 引用本地Html使用自定义页面</title>
+    <link href="https://like977.vercel.app/blog/Hexo%20%E5%BC%95%E7%94%A8%E6%9C%AC%E5%9C%B0Html%E4%BD%BF%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A1%B5%E9%9D%A2/"/>
+    <id>https://like977.vercel.app/blog/Hexo%20%E5%BC%95%E7%94%A8%E6%9C%AC%E5%9C%B0Html%E4%BD%BF%E7%94%A8%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A1%B5%E9%9D%A2/</id>
+    <published>2022-04-22T07:20:58.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">hexo 添加自己的html文件</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://like977.vercel.app/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://like977.vercel.app/tags/Hexo/"/>
+    
+    <category term="Html" scheme="https://like977.vercel.app/tags/Html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 助手 v1.0</title>
+    <link href="https://like977.vercel.app/blog/Hexo%20%E5%8A%A9%E6%89%8B%20v1.0%20/"/>
+    <id>https://like977.vercel.app/blog/Hexo%20%E5%8A%A9%E6%89%8B%20v1.0%20/</id>
+    <published>2022-04-20T21:31:32.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">懒人工具，比Git bash更好用的工具！</summary>
+    
+    
+    
+    <category term="Hexo" scheme="https://like977.vercel.app/categories/Hexo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Github Actions 实现每天定时刷微信步数</title>
+    <link href="https://like977.vercel.app/blog/Github%20Actions%20%E5%AE%9E%E7%8E%B0%E6%AF%8F%E5%A4%A9%E5%AE%9A%E6%97%B6%E5%88%B7%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B0/"/>
+    <id>https://like977.vercel.app/blog/Github%20Actions%20%E5%AE%9E%E7%8E%B0%E6%AF%8F%E5%A4%A9%E5%AE%9A%E6%97%B6%E5%88%B7%E5%BE%AE%E4%BF%A1%E6%AD%A5%E6%95%B0/</id>
+    <published>2022-04-16T22:49:38.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">利用Zepp Life+Gtihub Actions实现刷步</summary>
+    
+    
+    
+    <category term="Github" scheme="https://like977.vercel.app/categories/Github/"/>
+    
+    
+    <category term="Github Actions" scheme="https://like977.vercel.app/tags/Github-Actions/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>butterfly 魔改日志</title>
+    <link href="https://like977.vercel.app/blog/butterfly%20%E9%AD%94%E6%94%B9%E6%97%A5%E5%BF%97/"/>
+    <id>https://like977.vercel.app/blog/butterfly%20%E9%AD%94%E6%94%B9%E6%97%A5%E5%BF%97/</id>
+    <published>2022-04-14T12:26:46.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">勿忘来时路</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Picgo+Github+Typora 纵享丝滑！</title>
+    <link href="https://like977.vercel.app/blog/Picgo+Github+Typora%20%E7%BA%B5%E4%BA%AB%E4%B8%9D%E6%BB%91%EF%BC%81/"/>
+    <id>https://like977.vercel.app/blog/Picgo+Github+Typora%20%E7%BA%B5%E4%BA%AB%E4%B8%9D%E6%BB%91%EF%BC%81/</id>
+    <published>2022-04-12T23:15:43.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">利用Github搭建图床配合picgo、typora实现纵享丝滑的hexo编写</summary>
+    
+    
+    
+    <category term="Typora" scheme="https://like977.vercel.app/categories/Typora/"/>
+    
+    <category term="Picgo" scheme="https://like977.vercel.app/categories/Typora/Picgo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Typora - 进阶</title>
+    <link href="https://like977.vercel.app/blog/Typora%20-%20%E8%BF%9B%E9%98%B6/"/>
+    <id>https://like977.vercel.app/blog/Typora%20-%20%E8%BF%9B%E9%98%B6/</id>
+    <published>2022-04-12T11:58:19.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+    <summary type="html">Typroa 进阶之路</summary>
+    
+    
+    
+    <category term="Typora" scheme="https://like977.vercel.app/categories/Typora/"/>
+    
+    
+    <category term="Typora" scheme="https://like977.vercel.app/tags/Typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人说明</title>
+    <link href="https://like977.vercel.app/blog/%E4%B8%AA%E4%BA%BA%E8%AF%B4%E6%98%8E/"/>
+    <id>https://like977.vercel.app/blog/%E4%B8%AA%E4%BA%BA%E8%AF%B4%E6%98%8E/</id>
+    <published>2022-04-05T13:29:30.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About me !&quot;&gt;&lt;/a&gt;About me !&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;font color=&quot;#3C763D&quot;&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试页面</title>
+    <link href="https://like977.vercel.app/blog/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://like977.vercel.app/blog/%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-09-16T19:43:06.000Z</published>
+    <updated>2022-05-01T17:02:08.284Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;关于&quot;&gt;&lt;a href=&quot;#关于&quot; class=&quot;headerlink&quot; title=&quot;关于&quot;&gt;&lt;/a&gt;关于&lt;/h1&gt;&lt;h1 id=&quot;啊哈哈哈哈&quot;&gt;&lt;a href=&quot;#啊哈哈哈哈&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
