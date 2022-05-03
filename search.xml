@@ -97,9 +97,9 @@
       
         <tags>
             
-            <tag> bat </tag>
-            
             <tag> Git </tag>
+            
+            <tag> bat </tag>
             
         </tags>
       
@@ -124,11 +124,11 @@
       
         <tags>
             
+            <tag> bat </tag>
+            
             <tag> Hexo </tag>
             
             <tag> cmd </tag>
-            
-            <tag> bat </tag>
             
         </tags>
       
