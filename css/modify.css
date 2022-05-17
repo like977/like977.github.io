@@ -45,7 +45,7 @@
   }
 }
 [data-theme='dark'] .top-img {
-  filter: brightness(0.8);
+  filter: brightness(1);
 }
 #footer:before {
   background-color: rgba(255,255,255,0.5);
@@ -53,16 +53,10 @@
 [data-theme='dark'] #footer:before {
   background-color: rgba(0,0,0,0.5);
 }
-#footer-wrap,
-#footer-wrap a {
-  color: rgba(84,232,115,0.878);
-  -webkit-transition: unset;
-  -moz-transition: unset;
-  -o-transition: unset;
-  -ms-transition: unset;
-  transition: unset;
-}
-[data-theme='dark'] #footer-wrap,
-[data-theme='dark'] #footer-wrap a {
-  color: var(--light-grey);
-}
+/* 底部字体
+#footer-wrap, #footer-wrap a
+  color: var(--white)  //#54e873e0 //#111 页脚颜色
+  transition: unset
+
+  [data-theme='dark'] &
+    color: rgb(29 239 33 / 86%)//var(--light-grey)

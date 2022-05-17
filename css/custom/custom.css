@@ -61,7 +61,7 @@ min-width: 1.6rem;
 @font-face {
   font-family: 'tzy';
   /* 字体名自定义即可 */
-  src: url('https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2');
+  src: url('https://cdn1.tianli0.top/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2');
   /* 字体文件路径 */
   font-display: swap;
 }
@@ -108,64 +108,6 @@ footer::before{
   #page-header::before{
     background: transparent!important;
     }
-/*  ------------------- 全局透明 ------------------ */
-/* 首页文章卡片 */
-#recent-posts > .recent-post-item{
-  background:rgba(0, 0, 0, 0.7);
-}
-
-#bbTimeList
-
-
-/*首页哔哔以及哔哔页面透明*/
-/*
-首页哔哔：\themes\butterfly\source\css\custom\home_bber.css   》 #bbTimeList{
-哔哔页面：\themes\butterfly\source\css\custom\bber.css   》 每条动态
-
-*/
-
-/* 侧边菜单*/
-.sidebar-menus{
-background:rgba(253, 253, 253, 1)!important;
-}
-  
-
-
-/* 首页侧栏卡片 */
-.card-widget{
-background:rgba(0, 0, 0, 0.7)!important;
-}
-
-/* 首页侧栏卡片 */
-div#git_container{
-  background:rgba(0, 0, 0, 0.7)!important;
-  }
-
-  
-/* 文章页面正文背景 */
-div#post{
-background: rgba(0, 0, 0, 0.7);
-}
-/* 分页页面 */
-div#page{
-background: rgba(0, 0, 0, 0.7);
-}
-/* 归档页面 */
-div#archive{
-background: rgba(0, 0, 0, 0.7);
-}
-/* 标签页面 */
-div#tag{
-background: rgba(0, 0, 0, 0.7);
-}
-/* 分类页面 */
-div#category{
-background: rgba(0, 0, 0, 0.7);
-}
-
-
-
-
 
 
 

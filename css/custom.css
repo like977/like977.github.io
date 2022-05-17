@@ -58,18 +58,18 @@ min-width: 1.6rem;
 }
 
 /*  ------------------- 自定义字体 ------------------ */
-@font-face {
-  font-family: 'tzy';
+/*@font-face {
+  font-family: 'liam';
   /* 字体名自定义即可 */
-  src: url('https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2');
+ /* src: url(' https://cdn1.tianli0.top/npm/like977/hexo-js/ZhuZiAWan.woff2');
   /* 字体文件路径 */
-  font-display: swap;
-}
-
-body,
+ /* font-display: swap;
+/*}*/
+/*body,
 .gitcalendar {
-  font-family: tzy !important;
-}
+  font-family: liam !important;
+/*}*/
+
 /*  ------------------- 一图流透明 ------------------ */
   /* 页脚透明 */
 #footer{
@@ -110,11 +110,9 @@ footer::before{
     }
 /*  ------------------- 全局透明 ------------------ */
 /* 首页文章卡片 */
-#recent-posts > .recent-post-item{
-  background:rgba(0, 0, 0, 0.7);
-}
-
-#bbTimeList
+/*#recent-posts > .recent-post-item{
+  background: var(--zcard);
+}*/
 
 
 /*首页哔哔以及哔哔页面透明*/
@@ -124,49 +122,42 @@ footer::before{
 
 */
 
-/* 侧边菜单*/
-.sidebar-menus{
-background:rgba(253, 253, 253, 1)!important;
-}
-  
-
 
 /* 首页侧栏卡片 */
-.card-widget{
-background:rgba(0, 0, 0, 0.7)!important;
-}
+/*.card-widget{
+background:rgba(22, 223, 163, 0.7)!important;
+}*/
 
 /* 首页侧栏卡片 */
-div#git_container{
-  background:rgba(0, 0, 0, 0.7)!important;
-  }
+/*div#git_container{
+  background: alpha(var(--zcard), 0.7);
+}*/
+  /*rgba(0, 0, 0, 0.7)!important;*/
 
-  
 /* 文章页面正文背景 */
-div#post{
+/*div#post{
 background: rgba(0, 0, 0, 0.7);
-}
+}*/
 /* 分页页面 */
-div#page{
-background: rgba(0, 0, 0, 0.7);
-}
+/*div#page{
+background: var(--zcard); 
+}*/
 /* 归档页面 */
-div#archive{
-background: rgba(0, 0, 0, 0.7);
-}
+/*div#archive{
+background: var(--zcard); 
+}*/
 /* 标签页面 */
-div#tag{
-background: rgba(0, 0, 0, 0.7);
-}
+/*div#tag{
+background: var(--zcard); 
+}*/
 /* 分类页面 */
-div#category{
-background: rgba(0, 0, 0, 0.7);
-}
-
-
-
-
-
+/*div#category{
+background: var(--zcard); 
+}*/
+/*#page-header > .nav-fixed > #nav, > .not-top-img > #nav{
+  background: rgba(177, 16, 16, 0.7); /*rgb(125 153 57) 
+  box-shadow: 0 5px 6px -5px rgb(235, 209, 209);
+}*/
 
 
 
@@ -226,10 +217,158 @@ div#quit-board.fixedcomment {
 /* 夜间模式匹配 */
 [data-theme="dark"]
   div#post-comment.fixedcomment {
-      background: rgba(35, 35, 35, 0.95);
+      background: rgba(214, 189, 189, 0.95);
       box-shadow:3px 2px 12px #90a1a4;
   }
 [data-theme="dark"]
   div#quit-board.fixedcomment {
     background: rgba(147, 146, 128, 0.3);
   }
+
+
+
+
+
+
+
+
+
+
+
+/*----------------滚动条--------------*/
+/*
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 2em;
+     background-color: rgba(73, 177, 245, .2); 
+  }
+
+  ::-webkit-scrollbar-thumb {
+      background-color: rgb(255 255 255 / .3);
+      background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);
+      border-radius: 2em
+  }
+  
+  ::-webkit-scrollbar-corner {
+      background-color: transparent
+  }*/
+
+
+
+
+  /*-----------------------音乐插件-----------------------------------*/
+  /*强制不显示歌词*/
+.aplayer.aplayer-fixed .aplayer-lrc{
+  display: none!important;
+}
+
+/*修改插件整体背景*/
+.aplayer.aplayer-fixed {
+  background: rgba(255,255,255,0.6);
+  backdrop-filter: blur(10px);
+  border-radius:0 4px 0 0!important;
+}
+
+.aplayer-body{
+  background: rgba(255,255,255,0.1)!important;
+  backdrop-filter: blur(10px);
+}
+
+/*修改列表正在播放的歌曲背景*/
+.aplayer-list-light{
+  background: rgba(255,255,255,0.1)!important;
+  backdrop-filter: blur(10px);
+}
+
+/*修改歌曲列表背景*/
+.aplayer-list {
+  border: 1px solid #f1f1f1!important;
+  border-radius: 4px!important;
+}
+
+/*修改歌曲列表鼠标悬停时背景*/
+.aplayer-list li:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(15px);
+}
+
+/*修改播放列表正在播放歌曲左侧提示条颜色*/
+.aplayer-list-cur{
+  background: #666!important;
+}
+
+/*修改进度条颜色，不设置此项默认是蓝色 #2980b9*/
+.aplayer-bar .aplayer-played,.aplayer-thumb{
+  background: #4c4948!important;
+}
+
+/*删除底部歌曲播放信息边框*/
+.aplayer-info{
+  border: none!important;
+}
+
+/*删除歌曲列表边框*/
+.aplayer-list li {
+  border: none!important;
+}
+
+/*删除歌词按钮*/
+.aplayer-icon.aplayer-icon-lrc{
+  display: none!important;
+}
+
+
+/*夜间搭配*/
+/*修改插件主体在深色模式下的样式*/
+[data-theme="dark"]
+.aplayer.aplayer-fixed {
+    background: rgba(0, 0, 0, 0.6)!important;
+    color: #e1e1e1;
+}
+
+/*修改深色模式下鼠标悬停在列表时的样式*/
+[data-theme="dark"]
+.aplayer-list li:hover {
+    background: rgba(0, 0, 0, 0.5) !important;
+
+}
+
+/*修改歌曲列表在深色模式下的样式*/
+[data-theme="dark"]
+.aplayer-list {
+    background: rgba(12, 12, 12, 0) !important;
+    border: 1px solid #0d0d0d!important;
+}
+
+/*修改深色模式下列表当前选中的歌曲样式*/
+[data-theme="dark"]
+.aplayer-list-light{
+    background: rgba(0,0,0,0.5)!important;
+}
+
+/*深色模式下给歌曲封面增加遮罩*/
+[data-theme="dark"]
+.aplayer-pic {
+    -webkit-filter: brightness(1)!important;
+    filter: brightness(1)!important;
+}
+
+/* 背景宇宙星光  */
+#universe{
+  display: block;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+}

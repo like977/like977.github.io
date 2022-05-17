@@ -1,5 +1,5 @@
 :root{
-    --heo-white: #fff;
+    --heo-white: rgb(212, 158, 10);
     --heo-black: #000;
     --heo-none: rgba(0,0,0,0);
     --heo-gray: #999999;
@@ -30,7 +30,7 @@
     --heo-hovertext: #5374ff;
     --heo-ahoverbg: #F7F7FA;
     --heo-lighttext: #ef794f;
-    --heo-secondtext: rgb(255, 255, 255);
+    --heo-secondtext: rgb(47 90 6);/*rgb(255, 255, 255);*/
     --heo-scrollbar: rgba(60, 60, 67, 0.4);
     --heo-card-btn-bg: #f1f2f2;
     --heo-post-blockquote-bg: #fafcff;
@@ -92,6 +92,7 @@
   border-radius: 12px;
   padding: 8px 16px;
   margin-top: 12px;
+  border: 1px solid #66c6b1a3;
 }
 
 #bber p{
