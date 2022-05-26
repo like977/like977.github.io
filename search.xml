@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>手机通讯录一键导入实现短信批量群发</title>
+      <link href="posts/57928.html"/>
+      <url>posts/57928.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>思路：将群发的人员批量导入手机通讯录，通过修改指定名称实现一键群发</p></blockquote><h3 id="准备工具"><a href="#准备工具" class="headerlink" title="准备工具"></a>准备工具</h3><ol><li>聪明的大脑</li><li>智能手机</li><li><a href="http://cdn1.li9.top/siren/%E9%80%9A%E8%AE%AF%E5%BD%95%E5%8A%A9%E6%89%8B.apk">通讯录助手APP</a></li><li><a href="http://cdn1.li9.top/siren/%E9%80%9A%E8%AE%AF%E5%BD%95%E6%A8%A1%E6%9D%BF.xls">excel通讯录文件</a></li></ol><h3 id="批量导入手机同学录"><a href="#批量导入手机同学录" class="headerlink" title="批量导入手机同学录"></a>批量导入手机同学录</h3><ol><li>创建excel文件，编辑如下模板</li></ol><p><img src="https://i0.hdslb.com/bfs/album/6178a95400996803bbf67d9d561581d5d16fb499.png" style="zoom: 80%;" /></p><p> 本文为实现一键群发，建议修改姓名前缀</p><p><img src="https://i0.hdslb.com/bfs/album/ff58b7a8f257122435afb81992b24dc5ae0a3965.png" style="zoom: 80%;" /></p><blockquote><p>excel and符号连接编辑即可</p></blockquote><ol><li>保存excel文件，后缀类型：xls、xlsx、csv、txt</li></ol><p><img src="https://i0.hdslb.com/bfs/album/9e8ef24771977c62e0bb09c8ddbc6aa4776a75ac.png" style="zoom:67%;" /></p><ol><li>文件传至手机，选择转换成通讯录</li></ol><p><img src="https://i0.hdslb.com/bfs/album/0f496f81f7cb4302b8b4e9186197e6a7390e0253.png" style="zoom:67%;" /></p><ol><li>系统自动处理</li></ol><p><img src="https://i0.hdslb.com/bfs/album/1f28ce7a0d01d99245d8046ebf0b886994767431.png" style="zoom:67%;" /></p><ol><li>选择导入</li></ol><p><img src="https://i0.hdslb.com/bfs/album/e7bf0cd53bbff442af56a183d57c4e290a71e1e2.png" style="zoom:67%;" /></p><ol><li>导入完成</li></ol><p><img src="https://i0.hdslb.com/bfs/album/8e7d15d1bc731500a22f3dbda3d23cf10d0a73a4.png" style="zoom:67%;" /></p><ol><li>通讯录搜索自己设置的前缀内容，查看倒入情况</li></ol><p><img src="https://i0.hdslb.com/bfs/album/a306853bfd28a86cfee45ec994c830087d5c3658.png" style="zoom:67%;" /></p><h3 id="一键群发"><a href="#一键群发" class="headerlink" title="一键群发"></a>一键群发</h3><ol><li><p>手机编辑短信内容</p><p><img src="https://i0.hdslb.com/bfs/album/3d853c818d390257eb9427691bed72ad2da44f10.png" style="zoom: 67%;" /></p></li><li><p>选择通讯录人员</p></li><li><p>搜索自己导入人员的前缀</p></li><li><p>全选</p></li><li><p>发送即可</p><p><img src="https://i0.hdslb.com/bfs/album/60d7daad1994dc32291d4650814a757dbfb3ff70.png" style="zoom:67%;" /></p></li></ol><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ol><li><p>目标是实现群发，群发完成后可以按照同样的方法批量删除联系人</p></li><li><p>批量群发的数量取决于通讯录所支持的数量，经测试本人支持一键300，速度3秒左右</p></li><li>短信群发速度根据运营商情况而定，存在黑号风险</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 实用记录 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Excerpts from English recitation</title>
       <link href="posts/16317.html"/>
       <url>posts/16317.html</url>
