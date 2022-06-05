@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>局域网互传</title>
+      <link href="posts/19049.html"/>
+      <url>posts/19049.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>百度科普：局域网，网络种类，覆盖范围一般是方圆几千米之内，其具备的安装便捷、成本节约、扩展方便等特点使其在各类办公室内运用广泛。局域网可以实现<a href="https://baike.baidu.com/item/文件管理/1452357">文件管理</a>、应用软件共享、<a href="https://baike.baidu.com/item/打印机共享/1979511">打印机共享</a>等功能，在使用过程当中，通过维护局域网网络安全，能够有效地保护资料安全，保证局域网网络能够正常稳定的运行。</p><p>注意事项：</p><ol><li>置于同一网络状态下（有线连接、无线WiFi均可）</li><li>应用场景：pe-pc、pc-pc、pe-pe、多设备等互传文件</li><li>优点：最大限度的提高文件传输速度，不受网速等其他因素影响，比蓝牙更快的本地文件传输方式！</li></ol><h2 id="放行本地防火墙端口"><a href="#放行本地防火墙端口" class="headerlink" title="放行本地防火墙端口"></a>放行本地防火墙端口</h2><ol><li><p>找到 Windows Defender 防火墙设置 进入高级设置</p><p><img src="https://qny.li9.top/posts/202206051216025.png" alt=""></p></li><li><p>新建入站和出站规则，选择端口</p><p><img src="https://qny.li9.top/posts/202206051219649.png" alt=""></p></li><li><p>放行端口，需与本地局域网互传端口一致</p><p><img src="https://qny.li9.top/posts/202206051220636.png" alt=""></p></li><li><p>端口放行，出站与入站协议均需放行</p><p><img src="https://qny.li9.top/posts/202206051222801.png" alt=""></p></li></ol><h2 id="几款好用的局域网软件"><a href="#几款好用的局域网软件" class="headerlink" title="几款好用的局域网软件"></a>几款好用的局域网软件</h2><h3 id="索鸟互传"><a href="#索鸟互传" class="headerlink" title="索鸟互传"></a><a href="http://www.suoniao.com/kuaichuan">索鸟互传</a></h3><blockquote><p>索鸟快传是一个基于C++语言、QT界面库(PC)和LayUi界面库(WEB)开发的一款基于HTTP协议的局域网文件共享、个人网盘系统。支持在线浏览视频、文本文件、压缩文件、图片、PDF文档、Markdown文档。支持文件批量上传、大文件分片上传、图片批量上传、文件下载、文件重命名、新建文件夹、删除等。支持基于用户、或用户组的文件增删改查上传权限限制。支持登录注册、文件分享。</p></blockquote><p><a href="http://cloud.li9.top/OneDrive/software/suoniao1.3.exe">下载地址1</a>  <a href="http://cloud.li9.top/OneDrive/software/kuaichuan1.3.exe">下载地址2</a></p><ol><li><p>启动程序 设置相应的选项</p><p><img src="https://qny.li9.top/posts/202206051233821.png" alt=""></p></li><li><p>放行端口，默认8080，可更改</p><p><img src="https://qny.li9.top/posts/202206051234678.png" alt=""></p></li><li><p>设置完成后，可以访问局域网链接进行文件操作</p><p><a href="http://192.168.0.103:8080">http://192.168.0.103:8080</a></p></li></ol><h3 id="Utools-工具插件-（推荐）"><a href="#Utools-工具插件-（推荐）" class="headerlink" title="Utools 工具插件 （推荐）"></a><a href="https://www.u.tools/">Utools 工具插件 （推荐）</a></h3><blockquote><p><a href="https://res.u-tools.cn/version2/uTools-2.6.3.exe">Win版下载地址</a> 其他版本官网下载</p></blockquote><ol><li><p>安装<code>fileshare文件共享（局域网）</code>插件</p><p><img src="https://qny.li9.top/posts/202206051240683.png" alt=""></p></li><li><p>快捷键  <code>文件</code> 进入设置，注意放行默认端口</p><p><img src="https://qny.li9.top/posts/202206051241963.png" alt=""></p></li><li><p>访问局域网地址</p><p><a href="http://192.168.0.103:5421">http://192.168.0.103:5421</a></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 实用记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 局域网 </tag>
+            
+            <tag> 传输 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>English Notes（三）</title>
       <link href="posts/3355.html"/>
       <url>posts/3355.html</url>
