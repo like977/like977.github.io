@@ -1,1 +1,1 @@
-"use strict";
+"use strict";function refreshCache(){"serviceWorker"in window.navigator&&navigator.serviceWorker.controller?confirm("是否确定刷新博文缓存")&&navigator.serviceWorker.controller.postMessage("refresh"):GLOBAL_CONFIG.Snackbar?btf.snackbarShow("ServiceWorker未激活，请使用Ctrl+F5刷新"):alert("ServiceWorker未激活，请使用Ctrl+F5刷新")}navigator.serviceWorker.addEventListener("message",function(r){"success"===r.data&&location.reload(!0)});

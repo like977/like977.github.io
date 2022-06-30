@@ -6,7 +6,7 @@
   <link href="https://like977.vercel.app/atom.xml" rel="self"/>
   
   <link href="https://like977.vercel.app/"/>
-  <updated>2022-06-25T11:54:06.397Z</updated>
+  <updated>2022-06-30T04:29:58.333Z</updated>
   <id>https://like977.vercel.app/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://like977.vercel.app/posts/29371.html"/>
     <id>https://like977.vercel.app/posts/29371.html</id>
     <published>2022-06-25T19:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.397Z</updated>
+    <updated>2022-06-30T04:29:58.333Z</updated>
     
     
       
@@ -44,7 +44,7 @@
     <link href="https://like977.vercel.app/posts/29642.html"/>
     <id>https://like977.vercel.app/posts/29642.html</id>
     <published>2022-06-25T19:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.397Z</updated>
+    <updated>2022-06-30T04:29:58.333Z</updated>
     
     
       
@@ -67,7 +67,7 @@
     <link href="https://like977.vercel.app/posts/49639.html"/>
     <id>https://like977.vercel.app/posts/49639.html</id>
     <published>2022-06-19T09:10:06.000Z</published>
-    <updated>2022-06-25T11:54:06.397Z</updated>
+    <updated>2022-06-30T04:29:58.333Z</updated>
     
     
     <summary type="html">2023版</summary>
@@ -86,7 +86,7 @@
     <link href="https://like977.vercel.app/posts/57239.html"/>
     <id>https://like977.vercel.app/posts/57239.html</id>
     <published>2022-06-15T22:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.389Z</updated>
+    <updated>2022-06-30T04:29:58.321Z</updated>
     
     
       
@@ -113,7 +113,7 @@
     <link href="https://like977.vercel.app/posts/54781.html"/>
     <id>https://like977.vercel.app/posts/54781.html</id>
     <published>2022-06-15T10:13:06.000Z</published>
-    <updated>2022-06-25T11:54:06.389Z</updated>
+    <updated>2022-06-30T04:29:58.325Z</updated>
     
     
       
@@ -138,7 +138,7 @@
     <link href="https://like977.vercel.app/posts/18959.html"/>
     <id>https://like977.vercel.app/posts/18959.html</id>
     <published>2022-06-13T22:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.385Z</updated>
+    <updated>2022-06-30T04:29:58.321Z</updated>
     
     
       
@@ -163,7 +163,7 @@
     <link href="https://like977.vercel.app/posts/23512.html"/>
     <id>https://like977.vercel.app/posts/23512.html</id>
     <published>2022-06-11T21:33:06.000Z</published>
-    <updated>2022-06-25T11:54:06.389Z</updated>
+    <updated>2022-06-30T04:29:58.321Z</updated>
     
     
       
@@ -189,7 +189,7 @@
     <link href="https://like977.vercel.app/posts/17800.html"/>
     <id>https://like977.vercel.app/posts/17800.html</id>
     <published>2022-06-10T21:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.389Z</updated>
+    <updated>2022-06-30T04:29:58.321Z</updated>
     
     
       
@@ -214,7 +214,7 @@
     <link href="https://like977.vercel.app/posts/54995.html"/>
     <id>https://like977.vercel.app/posts/54995.html</id>
     <published>2022-06-10T10:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.385Z</updated>
+    <updated>2022-06-30T04:29:58.321Z</updated>
     
     
     <summary type="html">新视野读写一，笔记整理。</summary>
@@ -229,11 +229,113 @@
   </entry>
   
   <entry>
+    <title>精选语句</title>
+    <link href="https://like977.vercel.app/posts/29.html"/>
+    <id>https://like977.vercel.app/posts/29.html</id>
+    <published>2022-06-09T22:43:06.000Z</published>
+    <updated>2022-06-30T04:29:58.317Z</updated>
+    
+    
+    <summary type="html">念念不忘，必有回响</summary>
+    
+    
+    
+    <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="English" scheme="https://like977.vercel.app/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新概念全册单词汇总</title>
+    <link href="https://like977.vercel.app/posts/49825.html"/>
+    <id>https://like977.vercel.app/posts/49825.html</id>
+    <published>2022-06-09T18:43:06.000Z</published>
+    <updated>2022-06-30T04:29:58.317Z</updated>
+    
+    
+    <summary type="html">word！！！！全书四册，共计5717个词汇！</summary>
+    
+    
+    
+    <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="English" scheme="https://like977.vercel.app/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python 学习记录</title>
+    <link href="https://like977.vercel.app/posts/30422.html"/>
+    <id>https://like977.vercel.app/posts/30422.html</id>
+    <published>2022-06-09T09:07:06.000Z</published>
+    <updated>2022-06-30T04:29:58.313Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="Python" scheme="https://like977.vercel.app/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>向往的四级词汇（二）</title>
+    <link href="https://like977.vercel.app/posts/23625.html"/>
+    <id>https://like977.vercel.app/posts/23625.html</id>
+    <published>2022-06-09T02:45:00.000Z</published>
+    <updated>2022-06-30T04:29:58.313Z</updated>
+    
+    
+    <summary type="html">念念不忘，必有回响</summary>
+    
+    
+    
+    <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="English" scheme="https://like977.vercel.app/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>向往的四级词汇（一）</title>
+    <link href="https://like977.vercel.app/posts/64923.html"/>
+    <id>https://like977.vercel.app/posts/64923.html</id>
+    <published>2022-06-08T02:45:00.000Z</published>
+    <updated>2022-06-30T04:29:58.313Z</updated>
+    
+    
+    <summary type="html">念念不忘，必有回响</summary>
+    
+    
+    
+    <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="English" scheme="https://like977.vercel.app/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
     <title>星火英语（一）</title>
     <link href="https://like977.vercel.app/posts/15159.html"/>
     <id>https://like977.vercel.app/posts/15159.html</id>
     <published>2022-06-07T19:40:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
+    <updated>2022-06-30T04:29:58.313Z</updated>
     
     
     <summary type="html">800词日记</summary>
@@ -252,7 +354,7 @@
     <link href="https://like977.vercel.app/posts/63944.html"/>
     <id>https://like977.vercel.app/posts/63944.html</id>
     <published>2022-06-07T09:00:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
+    <updated>2022-06-30T04:29:58.313Z</updated>
     
     
       
@@ -278,7 +380,7 @@
     <link href="https://like977.vercel.app/posts/832.html"/>
     <id>https://like977.vercel.app/posts/832.html</id>
     <published>2022-06-07T08:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
+    <updated>2022-06-30T04:29:58.313Z</updated>
     
     
     <summary type="html">每周一12：30自动完成青年大学习</summary>
@@ -297,7 +399,7 @@
     <link href="https://like977.vercel.app/posts/55766.html"/>
     <id>https://like977.vercel.app/posts/55766.html</id>
     <published>2022-06-05T19:40:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
+    <updated>2022-06-30T04:29:58.313Z</updated>
     
     
     <summary type="html">全是水！做个记录，怕自己忘了，仅此而已。。。。。</summary>
@@ -316,7 +418,7 @@
     <link href="https://like977.vercel.app/posts/19049.html"/>
     <id>https://like977.vercel.app/posts/19049.html</id>
     <published>2022-06-05T10:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
+    <updated>2022-06-30T04:29:58.313Z</updated>
     
     
     <summary type="html">最大限度的提高文件传输速度，不受网速等其他因素影响，比蓝牙更快的本地文件传输方式！</summary>
@@ -337,7 +439,7 @@
     <link href="https://like977.vercel.app/posts/3355.html"/>
     <id>https://like977.vercel.app/posts/3355.html</id>
     <published>2022-06-02T19:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
+    <updated>2022-06-30T04:29:58.313Z</updated>
     
     
       
@@ -352,114 +454,6 @@
     
     <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Excerpts from English recitation</title>
-    <link href="https://like977.vercel.app/posts/16317.html"/>
-    <id>https://like977.vercel.app/posts/16317.html</id>
-    <published>2022-05-25T06:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;节选&quot;&gt;&lt;a href=&quot;#节选&quot; class=&quot;headerlink&quot; title=&quot;节选&quot;&gt;&lt;/a&gt;节选&lt;/h2&gt;&lt;p&gt;UNIT 2&lt;/p&gt;
-&lt;p&gt;  Studying the humanities improves our ability to read</summary>
-        
-      
-    
-    
-    
-    <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>小品·天边外（Beyond the Horizon）</title>
-    <link href="https://like977.vercel.app/posts/583.html"/>
-    <id>https://like977.vercel.app/posts/583.html</id>
-    <published>2022-05-23T09:18:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
-    
-    
-    <summary type="html">你把一切都看得清清楚楚——你看清了藏在纱幕背后的秘密，而你自己就是秘密。一瞬间一切都有了意义！ 作为一个人，我将永远感到自己是个局外人，找不到一个安身的家。我不需要什么，也不被人家所需要。这样的人永远找不到归属，永远对死亡抱着一丝眷恋！</summary>
-    
-    
-    
-    <category term="闲散笔记" scheme="https://like977.vercel.app/categories/%E9%97%B2%E6%95%A3%E7%AC%94%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>English listening</title>
-    <link href="https://like977.vercel.app/posts/54103.html"/>
-    <id>https://like977.vercel.app/posts/54103.html</id>
-    <published>2022-05-22T22:43:06.000Z</published>
-    <updated>2022-06-25T11:54:06.377Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;Unit1&quot;&gt;&lt;a href=&quot;#Unit1&quot; class=&quot;headerlink&quot; title=&quot;Unit1&quot;&gt;&lt;/a&gt;Unit1&lt;/h3&gt;&lt;h4 id=&quot;Conversation-1&quot;&gt;&lt;a href=&quot;#Conversation-1&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>近代史复习-简答题分析汇总</title>
-    <link href="https://like977.vercel.app/posts/17777.html"/>
-    <id>https://like977.vercel.app/posts/17777.html</id>
-    <published>2022-05-19T19:43:06.000Z</published>
-    <updated>2022-05-24T07:50:06.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;新增项&quot;&gt;&lt;a href=&quot;#新增项&quot; class=&quot;headerlink&quot; title=&quot;新增项&quot;&gt;&lt;/a&gt;新增项&lt;/h2&gt;&lt;h3 id=&quot;义和团运动兴起的原因及如何认识义和团运动的伟大意义？&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="学习记录" scheme="https://like977.vercel.app/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Github保命技能-回滚/回退版处理</title>
-    <link href="https://like977.vercel.app/posts/10904.html"/>
-    <id>https://like977.vercel.app/posts/10904.html</id>
-    <published>2022-05-18T09:10:00.000Z</published>
-    <updated>2022-06-25T11:54:06.373Z</updated>
-    
-    
-    <summary type="html">word文档快速转换markdown文件</summary>
-    
-    
-    
-    <category term="实用记录" scheme="https://like977.vercel.app/categories/%E5%AE%9E%E7%94%A8%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="github" scheme="https://like977.vercel.app/tags/github/"/>
-    
-    <category term="恢复" scheme="https://like977.vercel.app/tags/%E6%81%A2%E5%A4%8D/"/>
     
   </entry>
   
